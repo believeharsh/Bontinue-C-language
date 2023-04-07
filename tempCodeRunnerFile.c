@@ -1,0 +1,1 @@
+printf("Using function pointer: %d",res1);
